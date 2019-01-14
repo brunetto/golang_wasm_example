@@ -1,1 +1,1 @@
-module github.com/pixartprinting/logistics.wasm_example
+module github.com/brunetto/golang_wasm_example
