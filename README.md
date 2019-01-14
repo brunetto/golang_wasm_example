@@ -4,6 +4,9 @@
 * https://github.com/golang/go/tree/master/misc/wasm
 * https://github.com/mattn/golang-wasm-example
 * https://github.com/stdiopt/gowasm-experiments
+* https://www.youtube.com/watch?v=iTrx0BbUXI4
+* https://www.youtube.com/watch?v=4kBvvk2Bzis
+* https://play.jsgo.io/
 
 ## To run
 
